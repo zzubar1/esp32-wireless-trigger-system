@@ -62,7 +62,3 @@ The transmitter ESP32:
 - On button press, sends the corresponding command byte to this receiver board's MAC address over ESP-NOW
 
 Both boards need matching hardcoded MAC addresses to talk to each other.
-
-## License
-
-Add a license of your choice here (e.g. MIT) before publishing.
